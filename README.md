@@ -1,4 +1,4 @@
-![I'm a Bioengineer.](https://scontent.fist4-1.fna.fbcdn.net/v/t39.30808-6/265552498_3806258422937447_1028251881804851385_n.png?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=voP-D4JMIDMAX9Gl5MO&tn=LjN4spTl9p2AsoWD&_nc_ht=scontent.fist4-1.fna&oh=1544d5eeaf53dc3f4327784c3a561b7a&oe=61B685B5)
+![I'm a Bioengineer.](https://github.com/burakkahveci/burakkahveci/blob/main/burakkahveci.png)
 
 ## Hi there 👋, I'm Burak
 ### I'm a Bioengineer.
