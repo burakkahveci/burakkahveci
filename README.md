@@ -13,15 +13,11 @@ I'm Burak from Turkey, and I do content on **Computer Vision**, **Machine Learni
 * ⚛️ Data Science
 
 ### Wet Laboratory 
-* 🥼 Stem Cells
+* 🥼 Induced Pluripotent Stem Cells
+* 👨‍🔬 Neural Organoids (Retina, hypthalamus, Cerebral)
 * 👨‍🔬 Histology 
 
 Skills: Python , Computer Vision, Machine Learning, Data Science
-
-- 🔭 I’m currently working on Yesil Science 
-- 🌱 I’m currently learning Reinforcement Learning & Solidity 
-- 👯 I’m looking to collaborate on Biological Projects 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/burakkahveci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kahveciburak/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/burakkahveci42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCvswVzsYEsAeA4iPXAkn3qA)  
 
